@@ -127,4 +127,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-asn1_dummy_sol.ipynb
+asn1*
