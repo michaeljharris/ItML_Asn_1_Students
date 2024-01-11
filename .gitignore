@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 asn1*
 asn1_dummy_sol.ipynb
+
+private
+private/*
